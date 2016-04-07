@@ -1,6 +1,6 @@
 ## Limitation of Liability
 
-Recipient will be liable to Limiting Party for liabilities arising directly from the Limiting Party and Recipient dealings in relation to the Subject, however, to the fullest extent permitted by law, Limiting Party excludes any liability for Consequential Loss to Recipient in relation to any liabilities connected directly or indirectly with the Limiting Party and Recipient dealings in relation to the Subject, including liabilities based on:
+Limiting Party will be liable to Recipient for liabilities arising directly from the Limiting Party and Recipient dealings in relation to the Subject, however, to the fullest extent permitted by law, Limiting Party excludes any liability for Consequential Loss to Recipient in relation to any liabilities connected directly or indirectly with the Limiting Party and Recipient dealings in relation to the Subject, including liabilities based on:
 
 - contract law;
 - tort law; or
